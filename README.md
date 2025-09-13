@@ -5,9 +5,13 @@
 > [!WARNING]
 > For the accuracy of calculations, a large MPFR library is used, there may be delays and high processor loads on weak systems.
 
+<br>
+<br>
 <div align = center> 
     <img src = "./README/sample.gif"> 
 </div>
+<br>
+<br>
 
 The program calculates the pi number with high accuracy. 
 
