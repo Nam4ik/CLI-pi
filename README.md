@@ -4,7 +4,6 @@
 ![CMake Build Status](https://img.shields.io/github/actions/workflow/status/Nam4ik/CLI-pi/cmake-single-platform.yml?logo=cmake&label=build&style=flat-square)
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![C](https://img.shields.io/badge/C-99-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![BSD 2-Clause](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![MPFR](https://img.shields.io/badge/MPFR-4.2.0-blue.svg)](https://www.mpfr.org/)
 
 </div>
