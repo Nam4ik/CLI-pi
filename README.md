@@ -1,8 +1,15 @@
-# CLI-pi
+<h1 align = center> CLI-π </h1> 
+
 **tpi - C-written, MPFR-based CLI program for calculating pi**
 
 > [!WARNING]
 > For the accuracy of calculations, a large MPFR library is used, there may be delays and high processor loads on weak systems.
+
+<div align = center> 
+    <video width="640" height="384"> 
+    <source src="README/sample.mp4" type="video/mp4"> 
+    </video> 
+</div>
 
 The program calculates the pi number with high accuracy. 
 

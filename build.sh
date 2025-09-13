@@ -1,3 +1,3 @@
 #!/bin/sh
 
-gcc -v -Wall -Wextra -Werror -lm -lmpfr -lgmp -I/usr/local/include -L/usr/local/lib src/main.c -o tpi-v2
+gcc -v -Wall -Wextra -Werror -lm -lmpfr -lgmp -I/usr/include -L/usr/lib src/main.c -o tpi-v2 -m32
