@@ -23,6 +23,8 @@ But if you need more, you can change the len variable and recompile the project 
 
 </div>
 
+
+
 # How does the calculation work?
 Calculations are performed using the Gauss method, which is based on the use of integrals and properties of elliptic integrals. This method, also known as the Gauss-Legandre method, makes it possible to calculate pi with high accuracy using an iterative process.
 
