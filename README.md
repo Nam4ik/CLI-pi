@@ -1,15 +1,17 @@
 <h1 align = center> CLI-π </h1> 
+<div align = center>
 
 **tpi - C-written, MPFR-based CLI program for calculating pi**
+</div> 
 
 > [!WARNING]
 > For the accuracy of calculations, a large MPFR library is used, there may be delays and high processor loads on weak systems.
 
 <div align = center> 
     <video width="640" height="384"> 
-    <source src="README/sample.mp4" type="video/mp4"> 
+    <source src="./README/sample.mp4" type="video/mp4"> 
     </video> 
-</div>
+
 
 The program calculates the pi number with high accuracy. 
 
@@ -18,6 +20,8 @@ In infinite mode, something like AOT compilation is used, first ~10 million deci
 $$100,000,000 \text{ ms} = 100,000 \text{ s} = \frac{100,000}{3600} \text{ hours} \approx 27.78 \text{ h}$$
 
 But if you need more, you can change the len variable and recompile the project with `build.sh` for yourself by setting a different limit. Be careful, the CPU load will be higher.
+
+</div>
 
 # How does the calculation work?
 Calculations are performed using the Gauss method, which is based on the use of integrals and properties of elliptic integrals. This method, also known as the Gauss-Legandre method, makes it possible to calculate pi with high accuracy using an iterative process.
